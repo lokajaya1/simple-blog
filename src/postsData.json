@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Mengapa React Populer di Kalangan Pengembang Web",
+        "tags": ["React", "JavaScript", "Web Development"],
+        "content": "React adalah pustaka JavaScript yang digunakan untuk membangun antarmuka pengguna. Salah satu alasan utama React menjadi sangat populer adalah karena pendekatan deklaratifnya untuk membangun UI, yang membuat kode lebih mudah dibaca dan dikelola. Selain itu, React menggunakan Virtual DOM, yang meningkatkan kinerja aplikasi dengan meminimalkan manipulasi DOM yang mahal. Komunitas yang besar dan ekosistem yang kaya juga memberikan banyak sumber daya dan alat yang berguna bagi pengembang.",
+        "date": "2024-08-05",
+        "isNew": true
+    },
+    {
+        "title": "Memulai dengan Hooks di React",
+        "tags": ["React", "Hooks", "JavaScript"],
+        "content": "Hooks adalah fitur baru di React yang diperkenalkan di versi 16.8. Hooks memungkinkan Anda menggunakan state dan fitur-fitur React lainnya tanpa menulis kelas. Dua hooks yang paling umum digunakan adalah `useState` dan `useEffect`. `useState` digunakan untuk menambahkan state lokal ke dalam komponen fungsional, sedangkan `useEffect` digunakan untuk menjalankan efek samping, seperti fetching data atau memperbarui DOM secara langsung. Dengan menggunakan Hooks, kode Anda akan lebih bersih dan lebih mudah dipahami.",
+        "date": "2024-08-05",
+        "isNew":true
+    }, 
+    {
+        "title": "Membangun Aplikasi Satu Halaman (SPA) dengan React Router",
+        "tags": ["React", "React Router", "SPA"],
+        "content": "React Router adalah pustaka standar untuk routing di aplikasi React. Dengan React Router, Anda dapat membangun aplikasi satu halaman (SPA) yang memungkinkan navigasi tanpa me-refresh seluruh halaman. React Router menyediakan komponen seperti `BrowserRouter`, `Route`, dan `Link` yang memudahkan Anda mengatur routing di aplikasi Anda. Dengan React Router, Anda dapat membuat pengalaman pengguna yang lebih cepat dan lebih responsif.",
+        "date": "2024-08-04",
+        "isNew": false
+    }, 
+    {
+        "title": "Mengoptimalkan Kinerja Aplikasi React",
+        "tags": ["React", "Performance", "Optimization"],
+        "content": "Mengoptimalkan kinerja aplikasi React sangat penting untuk memastikan pengalaman pengguna yang baik. Beberapa teknik optimasi termasuk memanfaatkan React.memo untuk mencegah render ulang yang tidak perlu, menggunakan React.lazy dan Suspense untuk pemuatan komponen secara dinamis, serta menghindari penggunaan state yang tidak perlu di komponen. Selain itu, Anda dapat menggunakan alat seperti React DevTools dan Lighthouse untuk mengidentifikasi dan memperbaiki masalah kinerja di aplikasi Anda.",
+        "date": "2024-08-03",
+        "isNew":false
+    },
+    {
+        "title": "Mengelola State di Aplikasi React dengan Redux",
+        "tags": ["React", "Redux", "State Management"],
+        "content": "Redux adalah pustaka manajemen state yang sering digunakan bersama React. Redux membantu Anda mengelola state aplikasi secara global dan memudahkan pengelolaan state yang kompleks. Dengan menggunakan Redux, Anda dapat menyimpan state aplikasi di satu tempat (store) dan mengaksesnya dari mana saja di aplikasi Anda. Konsep utama Redux termasuk actions, reducers, dan store. Meskipun memiliki kurva pembelajaran yang cukup curam, Redux sangat berguna untuk aplikasi yang memiliki banyak komponen yang berbagi state.",
+        "date": "2024-08-02",
+        "isNew": false
+    }
+]
